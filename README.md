@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=260&section=header&text=Isfaque%20Ansari&fontSize=52&fontColor=ffffff&desc=Data%20Analyst%20%E2%86%92%20Data%20Scientist&descSize=20&descAlignY=62&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,35:2c5364,70:355c7d,100:0f2027&height=270&section=header&text=Isfaque%20Ansari&fontSize=54&fontColor=ffffff&desc=Data%20Analyst%20%E2%86%92%20Data%20Scientist&descSize=20&descAlignY=63&animation=twinkling&fontAlignY=36"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=2C5364&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Turning+raw+data+into+decisions+%F0%9F%93%8A;SQL+%2B+Python+%2B+Tableau+%F0%9F%9B%A0%EF%B8%8F;2%2B+years+%7C+E-commerce+%C2%B7+Fintech+%C2%B7+B2B+SaaS;Open+to+Remote+Roles+Worldwide+%F0%9F%8C%8D"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&duration=2400&pause=700&color=57C7FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=95&lines=Turning+raw+data+into+decisions+%F0%9F%93%8A;SQL+%2B+Python+%2B+Tableau+%2B+ML+%F0%9F%A7%A0;2%2B+years+%7C+E-commerce+%C2%B7+Fintech+%C2%B7+B2B+SaaS;Open+to+Remote+Roles+Worldwide+%F0%9F%8C%8D"/>
 
 <br/>
 
@@ -12,45 +12,70 @@
 <a href="https://www.kaggle.com/work/code" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="https://github.com/Lifewitdata/DataDrivenInsights" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/2%2B%20Years%20Experience-2c5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/30%2B%20Repositories-355c7d?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/4%2B%20A%2FB%20Test%20Campaigns-0f2027?style=for-the-badge"/>
 <img src="https://komarev.com/ghpvc/?username=Lifewitdata&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=6,11,20"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=3&color=gradient&customColorList=6,11,20"/>
 
 <div align="center">
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,git,jira&theme=dark" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=8FD3FE&center=true&vCenter=true&repeat=true&width=650&height=40&lines=Languages+%C2%B7+Machine+Learning+%C2%B7+Cloud+%2F+Warehousing;Visualization+%C2%B7+Automation+%C2%B7+Version+Control"/>
 
 <br/><br/>
 
-**Languages & Query**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<table>
+<tr>
+<td align="center" valign="top">
 
-**Data & ML**
-<br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+**💻 Languages & Query**
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-**Visualization & Cloud**
-<br/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20QuickSight-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</td>
+<td align="center" valign="top">
 
-**Tools**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+**🧠 ML & Data**
+<br/><br/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white"/>
+
+</td>
+<td align="center" valign="top">
+
+**☁️ Cloud & Warehousing**
+<br/><br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/AWS%20QuickSight-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</td>
+<td align="center" valign="top">
+
+**📊 Viz & Tools**
+<br/><br/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
