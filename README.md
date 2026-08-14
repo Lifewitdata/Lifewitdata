@@ -18,17 +18,41 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=6,11,20"/>
 
-## 🐍 Contribution Snake
-
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lifewitdata/Lifewitdata/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lifewitdata/Lifewitdata/output/github-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Lifewitdata/Lifewitdata/output/github-snake.svg" width="100%">
-</picture>
-</div>
 
-> ⚙️ Broken/blank until you run the snake workflow once (setup steps at the bottom).
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,git,jira&theme=dark" />
+
+<br/><br/>
+
+**Languages & Query**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+
+**Data & ML**
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+
+**Visualization & Cloud**
+<br/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20QuickSight-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+
+**Tools**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=6,11,20"/>
 
@@ -40,25 +64,6 @@
 - 🌱 Growing into **applied ML** — classification, regression, clustering, hypothesis testing, A/B testing
 - 💬 Ask me about funnel analysis, A/B testing, or dashboard automation
 - 📍 New Delhi, India — open to remote roles worldwide
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=6,11,20"/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,git,jira&theme=dark" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20QuickSight-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=6,11,20"/>
 
@@ -138,36 +143,19 @@ Analysis of healthcare claims data surfacing cost drivers and utilization patter
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=6,11,20"/>
 
-## 🏆 Trophies
+## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Lifewitdata&theme=tokyonight&animation=slideInLeft&no-frame=true&column=4&margin-w=8&margin-h=8"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lifewitdata/Lifewitdata/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lifewitdata/Lifewitdata/output/github-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Lifewitdata/Lifewitdata/output/github-snake.svg" width="100%">
+</picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=6,11,20"/>
+> ⚙️ Blank until the snake workflow has run once. Save the YAML block below as `.github/workflows/snake.yml` in this repo (not in the README itself), then run it once from the **Actions** tab.
 
-## 🎓 Certifications & Education
-
-- 🎓 Google Data Analytics Professional Certificate
-- 🎓 SQL for Data Science — University of Colorado Boulder
-- 🎓 AWS Certified *(add exact certification title)*
-- 🎓 BCG, Lloyds, Citi Data Science Virtual Experience Programs — Forage
-- 🎓 Continued Professional Development: DataCamp Machine Learning track
-- 🏫 B.Tech, Mechanical Engineering — Abacus Institute of Engineering and Management (2015–2019, CGPA 8.0/10)
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=6,11,20"/>
-
-<div align="center">
-
-### 💭 Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-
+```yaml
 name: Generate Snake Animation
 
 on:
@@ -200,6 +188,40 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=6,11,20"/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Lifewitdata&theme=tokyonight&animation=slideInLeft&no-frame=true&column=4&margin-w=8&margin-h=8"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=6,11,20"/>
+
+## 🎓 Certifications & Education
+
+- 🎓 Google Data Analytics Professional Certificate
+- 🎓 SQL for Data Science — University of Colorado Boulder
+- 🎓 AWS Certified *(add exact certification title)*
+- 🎓 BCG, Lloyds, Citi Data Science Virtual Experience Programs — Forage
+- 🎓 Continued Professional Development: DataCamp Machine Learning track
+- 🏫 B.Tech, Mechanical Engineering — Abacus Institute of Engineering and Management (2015–2019, CGPA 8.0/10)
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=6,11,20"/>
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=6,11,20"/>
+
+<div align="center">
 
 ### 📫 Let's Connect
 
