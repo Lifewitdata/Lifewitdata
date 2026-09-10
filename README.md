@@ -180,40 +180,6 @@ Analysis of healthcare claims data surfacing cost drivers and utilization patter
 
 > ⚙️ Blank until the snake workflow has run once. Save the YAML block below as `.github/workflows/snake.yml` in this repo (not in the README itself), then run it once from the **Actions** tab.
 
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
-  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    permissions:
-      contents: write
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Lifewitdata
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=6,11,20"/>
 
