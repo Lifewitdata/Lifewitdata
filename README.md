@@ -108,50 +108,36 @@ profile = {
 
 <div align="center">
 
-**💻 Languages & Query**
+**Core**
 <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+<img src="https://skillicons.dev/icons?i=python,r,sqlite,mysql,postgres,pytorch,sklearn,fastapi,docker,git,github,bash,aws&perline=13" alt="Python, R, SQL, PyTorch, scikit-learn, FastAPI, Docker, Git, GitHub, Bash, AWS"/>
 
-**☁️ Cloud & Warehousing**
+**☁️ Warehousing & BI**
 <br/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5D5?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
-<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery"/>
-<img src="https://img.shields.io/badge/AWS%20QuickSight-F99D00?style=for-the-badge&logo=amazonaws&logoColor=white" alt="QuickSight"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5D5?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake"/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery"/>
+<img src="https://img.shields.io/badge/AWS%20QuickSight-F99D00?style=flat-square&logo=amazonaws&logoColor=white" alt="QuickSight"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
 
-**🤖 ML & Data Science**
+**🤖 ML & Data Tooling**
 <br/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/LightGBM-025959?style=for-the-badge" alt="LightGBM"/>
-<img src="https://img.shields.io/badge/statsmodels-0173B2?style=for-the-badge" alt="statsmodels"/>
-<img src="https://img.shields.io/badge/SHAP-7DF9FF?style=for-the-badge" alt="SHAP"/>
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" alt="Polars"/>
-
-**⚙️ ML Engineering & Serving**
-<br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/DuckDB-DDF000?style=for-the-badge" alt="DuckDB"/>
-<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white" alt="Polars"/>
+<img src="https://img.shields.io/badge/LightGBM-025959?style=flat-square" alt="LightGBM"/>
+<img src="https://img.shields.io/badge/statsmodels-0173B2?style=flat-square" alt="statsmodels"/>
+<img src="https://img.shields.io/badge/SHAP-FF6F00?style=flat-square" alt="SHAP"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/DuckDB-DDF000?style=flat-square" alt="DuckDB"/>
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest"/>
 
 **📈 Product Analytics & Experimentation**
 <br/>
-<img src="https://img.shields.io/badge/A%2FB%20Testing-8E44AD?style=for-the-badge" alt="A/B Testing"/>
-<img src="https://img.shields.io/badge/Funnel%20Analysis-2980B9?style=for-the-badge" alt="Funnel Analysis"/>
-<img src="https://img.shields.io/badge/Cohorts%20%26%20Retention-16A085?style=for-the-badge" alt="Cohorts and Retention"/>
-<img src="https://img.shields.io/badge/Hypothesis%20Testing-C0392B?style=for-the-badge" alt="Hypothesis Testing"/>
-
-**📊 Viz & Tools**
-<br/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/A%2FB%20Testing-8E44AD?style=flat-square" alt="A/B Testing"/>
+<img src="https://img.shields.io/badge/Funnel%20Analysis-2980B9?style=flat-square" alt="Funnel Analysis"/>
+<img src="https://img.shields.io/badge/Cohorts%20%26%20Retention-16A085?style=flat-square" alt="Cohorts and Retention"/>
+<img src="https://img.shields.io/badge/Hypothesis%20Testing-C0392B?style=flat-square" alt="Hypothesis Testing"/>
 
 </div>
 
@@ -165,8 +151,25 @@ profile = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lifewitdata&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lifewitdata&theme=tokyonight" alt="repos per language" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lifewitdata&theme=tokyonight" alt="most committed languages" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lifewitdata&theme=tokyonight" alt="productive time" height="170"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lifewitdata&theme=tokyo-night&hide_border=true&area=true" height="170" alt="activity graph"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lifewitdata/Lifewitdata/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lifewitdata/Lifewitdata/output/github-snake.svg"/>
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Lifewitdata/Lifewitdata/output/github-snake.svg"/>
+  </picture>
 </div>
 
 ---
