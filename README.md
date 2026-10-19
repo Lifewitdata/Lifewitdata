@@ -1,210 +1,141 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12060b,40:5c1a2b,75:8e2a3c,100:c1666b&height=230&section=header&text=Isfaque%20Ansari&fontSize=54&fontColor=fff5f6&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20Data%20Scientist%20%C2%B7%20ML%20%C2%B7%20Product%20Analytics&descSize=19&descAlignY=62&descAlign=50" alt="burgundy waving header"/>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=D9A05B&center=true&vCenter=true&repeat=true&width=900&height=50&lines=SQL+%C2%B7+Python+%C2%B7+Machine+Learning+%C2%B7+Product+Analytics;Funnels%2C+cohorts+%26+experiments+that+survive+scrutiny;Forecasting+and+causal+inference+with+honest+error+bars;Dashboards+to+deep+learning+%E2%80%94+I+do+both" alt="animated typing roles"/>
-  </a>
-
-  <p>
-    <img src="https://img.shields.io/badge/PROFILE-140%2B%20Public%20Repos-8E2A3C?style=flat-square&labelColor=2B0F18" alt="public repos"/>
-    <img src="https://img.shields.io/badge/EXPERIENCE-2%2B%20Years-5C1A2B?style=flat-square&labelColor=2B0F18" alt="experience"/>
-    <img src="https://img.shields.io/badge/BASED-New%20Delhi%20%2B%20Remote-B04A5F?style=flat-square&labelColor=2B0F18" alt="location"/>
-    <img src="https://img.shields.io/badge/Open%20to-Remote%20Data%20Roles-D9A05B?style=flat-square&labelColor=2B0F18" alt="open to work"/>
-  </p>
+  <img src="assets/hero.svg" width="900" alt="Isfaque Ansari — Data Analyst, Data Scientist, Analytics Engineer"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👋 Hello
 
-```python
-profile = {
-    "roles": ["Data Analyst", "Data Scientist", "Machine Learning", "Product Analyst"],
-    "experience": "2+ years — e-commerce · fintech · B2B SaaS",
-    "stack": ["Python", "SQL", "R", "BigQuery", "Snowflake", "Tableau"],
-    "rule": "verified numbers, honest limitations, no vanity metrics",
-    "location": "New Delhi, India · open to remote worldwide",
-}
-```
+I'm **Isfaque Ansari** — a data analyst and scientist working the full path from raw event tables to a decision someone can defend. Two years of that inside a live product at Weblays Technologies, and now a portfolio where I pick the hard methods on purpose: staggered difference-in-differences, position-bias-corrected ranking, uplift on a real randomized campaign.
 
-- 📊 **Data Analyst** — SQL/BigQuery pipelines, Tableau dashboards, EDA & data-quality audits, reporting automation saving ~3–4 hrs/week
-- 🤖 **Data Scientist / ML** — forecasting, classification, calibration (Platt), SHAP explainability — models with walk-forward validation, honest error bars, and production serving (FastAPI + Docker)
-- 🧪 **Product Analyst** — funnels, cohorts & retention, A/B testing, uplift, growth and activation metrics driving product decisions
-- 🔬 **Methods I actually show** — hand-rolled estimators, staggered difference-in-differences, synthetic control, rolling-origin backtests, conformal intervals
-- 💬 Ask me about: funnel analysis, A/B testing, dashboard automation, or time-series forecasting
-
----
-
-## 📊 GitHub Analytics
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Lifewitdata&show_icons=true&hide=prs,issues,contribs&count_private=true&bg_color=1a0a10&title_color=D9A05B&text_color=F2DDE1&icon_color=D9A05B&border_color=5C1A2B&hide_border=true&border_radius=14&rank_icon=github" alt="github stats card"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com/?user=Lifewitdata&background=1A0A10&stroke=5C1A2B&ring=8E2A3C&fire=D9A05B&currStreakNum=F2DDE1&sideNums=D9A05B&currStreakLabel=F2DDE1&sideLabels=F2DDE1&dates=C1666B&hide_border=true&border_radius=14" alt="commit streak heatmap card"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lifewitdata&layout=compact&langs_count=8&hide=jupyter%20notebook,html,css&bg_color=1a0a10&title_color=D9A05B&text_color=F2DDE1&border_color=5C1A2B&hide_border=true&size_weight=0.6&count_weight=0.4&border_radius=14" alt="most used languages"/>
-    </td>
-    <td width="50%">
-      <b>🧭 Where to start</b>
-      <br/><sub>three repos that show different muscles</sub>
-      <br/><br/>
-      <a href="https://github.com/Lifewitdata/observational-causal-inference"><b>Method depth</b></a> — estimators written from scratch, tests that pin published effect sizes<br/>
-      <a href="https://github.com/Lifewitdata/sales-pipeline-analytics-warehouse"><b>Analyst day job</b></a> — ELT, dbt star schema, 51 tests, BI on top<br/>
-      <a href="https://github.com/Lifewitdata/social-gaming-activation-analysis"><b>Product storytelling</b></a> — funnel loss decomposed into a decision memo
-    </td>
-  </tr>
-</table>
-
----
-
-## 🔥 Contribution Heatmap
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lifewitdata/Lifewitdata/output/github-snake-burgundy-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lifewitdata/Lifewitdata/output/github-snake-burgundy.svg"/>
-    <img alt="burgundy contribution heatmap with animated snake" src="https://raw.githubusercontent.com/Lifewitdata/Lifewitdata/output/github-snake-burgundy.svg" width="100%"/>
-  </picture>
-  <br/><sub>one cell = one day · blush → wine → gold = rising commit volume · <a href="https://github.com/Lifewitdata/Lifewitdata/actions/workflows/snake.yml">rebuilt every 12h</a> from the live graph</sub>
-</div>
-
----
-
-## 🛠️ Tech Stack
+I care about the boring parts — schema tests, sample-ratio checks, honest confidence intervals — because that is what makes the interesting parts true.
 
 <div align="center">
 
-**Core**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,r,sqlite,mysql,postgres,pytorch,sklearn,fastapi,docker,git,github,bash,aws&perline=13" alt="core tech icons"/>
-
-**☁️ Warehousing & BI**
-<br/>
-<img src="https://img.shields.io/badge/Snowflake-29B5D5?style=flat-square&logo=snowflake&logoColor=white&labelColor=2B0F18" alt="Snowflake"/>
-<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white&labelColor=2B0F18" alt="BigQuery"/>
-<img src="https://img.shields.io/badge/dbt-DB0507?style=flat-square&logo=dbt&logoColor=white&labelColor=2B0F18" alt="dbt"/>
-<img src="https://img.shields.io/badge/DuckDB-DDF000?style=flat-square&labelColor=2B0F18" alt="DuckDB"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white&labelColor=2B0F18" alt="Tableau"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=2B0F18" alt="Streamlit"/>
-
-**🤖 ML & Data Tooling**
-<br/>
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=2B0F18" alt="pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=2B0F18" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Polars-E49400?style=flat-square&labelColor=2B0F18" alt="Polars"/>
-<img src="https://img.shields.io/badge/PySpark-EDA98B?style=flat-square&logo=apachespark&logoColor=000&labelColor=2B0F18" alt="PySpark"/>
-<img src="https://img.shields.io/badge/LightGBM-025959?style=flat-square&labelColor=2B0F18" alt="LightGBM"/>
-<img src="https://img.shields.io/badge/SHAP-FF6F00?style=flat-square&labelColor=2B0F18" alt="SHAP"/>
-<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white&labelColor=2B0F18" alt="pytest"/>
-
-**📈 Product Analytics & Experimentation**
-<br/>
-<img src="https://img.shields.io/badge/A%2FB%20Testing-8E2A3C?style=flat-square&labelColor=2B0F18" alt="A/B Testing"/>
-<img src="https://img.shields.io/badge/Uplift%20Modeling-5C1A2B?style=flat-square&labelColor=2B0F18" alt="Uplift Modeling"/>
-<img src="https://img.shields.io/badge/Funnel%20Analysis-B04A5F?style=flat-square&labelColor=2B0F18" alt="Funnel Analysis"/>
-<img src="https://img.shields.io/badge/Cohorts%20%26%20Retention-C1666B?style=flat-square&labelColor=2B0F18" alt="Cohorts and Retention"/>
-<img src="https://img.shields.io/badge/Causal%20Inference-D9A05B?style=flat-square&labelColor=2B0F18" alt="Causal Inference"/>
-<img src="https://img.shields.io/badge/Hypothesis%20Testing-A8838B?style=flat-square&labelColor=2B0F18" alt="Hypothesis Testing"/>
+`Python` · `R` · `SQL` · `Tableau` · `Experiment Design` · `Causal Inference`
 
 </div>
 
 ---
 
-## ⭐ Featured Work
+## 🏅 Track record & certifications
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Lifewitdata/observational-causal-inference"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lifewitdata&repo=observational-causal-inference&bg_color=1a0a10&title_color=D9A05B&text_color=F2DDE1&icon_color=8E2A3C&border_color=5C1A2B&hide_border=true&border_radius=14" alt="observational-causal-inference"/></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Lifewitdata/campaign-uplift-loyalty-analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lifewitdata&repo=campaign-uplift-loyalty-analytics&bg_color=1a0a10&title_color=D9A05B&text_color=F2DDE1&icon_color=8E2A3C&border_color=5C1A2B&hide_border=true&border_radius=14" alt="campaign-uplift-loyalty-analytics"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Lifewitdata/sales-pipeline-analytics-warehouse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lifewitdata&repo=sales-pipeline-analytics-warehouse&bg_color=1a0a10&title_color=D9A05B&text_color=F2DDE1&icon_color=8E2A3C&border_color=5C1A2B&hide_border=true&border_radius=14" alt="sales-pipeline-analytics-warehouse"/></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Lifewitdata/recruiting-pipeline-quality-monitor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lifewitdata&repo=recruiting-pipeline-quality-monitor&bg_color=1a0a10&title_color=D9A05B&text_color=F2DDE1&icon_color=8E2A3C&border_color=5C1A2B&hide_border=true&border_radius=14" alt="recruiting-pipeline-quality-monitor"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Lifewitdata/demandpilot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lifewitdata&repo=demandpilot&bg_color=1a0a10&title_color=D9A05B&text_color=F2DDE1&icon_color=8E2A3C&border_color=5C1A2B&hide_border=true&border_radius=14" alt="demandpilot"/></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Lifewitdata/invoiceguard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lifewitdata&repo=invoiceguard&bg_color=1a0a10&title_color=D9A05B&text_color=F2DDE1&icon_color=8E2A3C&border_color=5C1A2B&hide_border=true&border_radius=14" alt="invoiceguard"/></a>
-    </td>
-  </tr>
-</table>
+**Data Analyst · Weblays Technologies, New Delhi · Sep 2023 – Nov 2025**
+
+- Cut reporting errors by **~30%** and manual re-checks by **~40%** by rebuilding the reporting layer around validated sources instead of spreadsheets.
+- Consolidated **10+ raw sources** covering **4.2K–5.6K WAU** into one consistent metric definition across product and finance.
+- Shipped **20+ analyses and hypothesis tests per quarter** in Tableau — funnels, cohorts and 5+ behavioural segments.
+- Traced an unexplained **33% WAU spike** to a logging bug in **2 days**, before it reached an investor deck.
+
+**Independent Data Analyst · Portfolio & upskilling · Nov 2025 – present**
+
+- **7+ end-to-end published projects** with reproducible data generation, tests and written decision memos.
+
+**Certifications**
+
+- **SQL** — University of Colorado Boulder, Coursera · scored **92.26%**
+- **Python and Statistics** — HKUST · scored **95%**
+- **Google Data Analytics** — Coursera
+- **Citi job simulation** — Forage
+
+<sub>B.Tech, Mechanical Engineering · Abacus Institute of Engineering & Management · 2015–2019 · CGPA 7.58/10. I came to data through manufacturing process analysis, which is why I still start every dataset by asking how it was measured.</sub>
 
 ---
 
-## 🆕 Recent Builds
+## 🧪 Selected work
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Lifewitdata/social-gaming-activation-analysis"><b>🎮 Social Gaming Activation Funnel</b></a> <img src="https://img.shields.io/badge/TABLEAU-8E2A3C?style=flat-square&labelColor=2B0F18" alt="tableau"/>
-      <br/><sub><code>PostgreSQL</code> <code>SQL</code> <code>Tableau</code> <code>product analytics</code></sub>
-      <br/>10,000 users · 281,652 raw events. Activation <b>45.29%</b> (4,482 of 9,897), lobby→game-joined loss of 2,186 users isolated into never-attempted vs attempt-failed, and an 18.77% vs 2.68% matchmaking failure gap on low-tier v1.1. Ships 3 Tableau dashboards + a non-technical decision memo.
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Lifewitdata/customer-churn-pyspark-mlops"><b>⚙️ Churn + CLV on PySpark</b></a> <img src="https://img.shields.io/badge/MLOPS-D9A05B?style=flat-square&labelColor=2B0F18" alt="mlops"/>
-      <br/><sub><code>PySpark</code> <code>medallion ETL</code> <code>PSI/KS drift</code> <code>FastAPI</code> <code>Docker</code></sub>
-      <br/>Bronze→Silver→Gold lakehouse with a Spark SQL warehouse, dual GBT models (churn classification + lifetime-value regression), a versioned model registry, drift monitoring, and a FastAPI scoring service under CI.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Lifewitdata/banking-onboarding-ab-testing"><b>🧪 Banking Onboarding A/B Testing</b></a> <img src="https://img.shields.io/badge/STREAMLIT-B04A5F?style=flat-square&labelColor=2B0F18" alt="streamlit"/>
-      <br/><sub><code>Polars</code> <code>Plotly</code> <code>Streamlit</code> <code>experiment design</code></sub>
-      <br/>Sign-up-to-funded funnel experiment: interactive Streamlit readout with power and sample-size math, plus a self-contained HTML experiment report. Data regenerates from a seeded generator, so the repo stays small and reproducible.
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Lifewitdata/social-gaming-retention-analysis"><b>🔁 Social Gaming Cohort Retention</b></a> <img src="https://img.shields.io/badge/MYSQL-5C1A2B?style=flat-square&labelColor=2B0F18" alt="mysql"/>
-      <br/><sub><code>MySQL 8.4</code> <code>cohort retention</code> <code>Tableau</code> <code>11 SQL scripts</code></sub>
-      <br/>20,000 users · 650,173 events. D7 <b>16.68%</b> and D30 <b>8.41%</b> retention with byte-pinned CSV fixtures, 4 executed notebooks and diagnosis → recommendation → experiment reports.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Lifewitdata/customer-intent-ml-genai"><b>🧠 Customer Intent: ML + GenAI</b></a> <img src="https://img.shields.io/badge/NLP-C1666B?style=flat-square&labelColor=2B0F18" alt="nlp"/>
-      <br/><sub><code>scikit-learn</code> <code>HF transformers</code> <code>LangChain RAG</code> <code>FastAPI</code> <code>Docker</code></sub>
-      <br/>Banking77 intent classification against fine-tuned transformers, an agentic RAG routing layer, and a served FastAPI API behind CI.
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Lifewitdata/user-segmentation-retention-analytics"><b>🧩 Segmentation, RFM & CLV</b></a> <img src="https://img.shields.io/badge/REAL%20DATA-D9A05B?style=flat-square&labelColor=2B0F18" alt="real data"/>
-      <br/><sub><code>SQL</code> <code>Python</code> <code>Streamlit</code> <code>survival analysis</code></sub>
-      <br/>Real e-commerce data: cohort retention, RFM segmentation, lifecycle stages, churn model at AUC <b>0.822</b>, and risk-adjusted CLV.
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/Lifewitdata/ranking-experimentation-analytics"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifewitdata&repo=ranking-experimentation-analytics&disable_animations=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&border_color=451126&hide_border=false&border_radius=14" alt="ranking-experimentation-analytics"/></a><a href="https://github.com/Lifewitdata/observational-causal-inference"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifewitdata&repo=observational-causal-inference&disable_animations=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&border_color=451126&hide_border=false&border_radius=14" alt="observational-causal-inference"/></a>
+
+<a href="https://github.com/Lifewitdata/sales-pipeline-analytics-warehouse"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifewitdata&repo=sales-pipeline-analytics-warehouse&disable_animations=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&border_color=451126&hide_border=false&border_radius=14" alt="sales-pipeline-analytics-warehouse"/></a><a href="https://github.com/Lifewitdata/campaign-uplift-loyalty-analytics"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Lifewitdata&repo=campaign-uplift-loyalty-analytics&disable_animations=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&border_color=451126&hide_border=false&border_radius=14" alt="campaign-uplift-loyalty-analytics"/></a>
+
+</div>
+
+**And three that are worth opening:**
+
+- [**🎮 Social gaming activation funnel**](https://github.com/Lifewitdata/social-gaming-activation-analysis) — `PostgreSQL` · `SQL` · `Tableau`<br/>
+  10,000 users · 281,652 events. Activation **45.29%** (4,482 of 9,897), with lobby→game loss split into never-attempted vs attempt-failed, and an 18.77% vs 2.68% matchmaking failure gap on low tiers. Ships 3 dashboards and a non-technical decision memo.
+
+- [**⚙️ Churn + CLV on PySpark**](https://github.com/Lifewitdata/customer-churn-pyspark-mlops) — `PySpark` · `FastAPI` · `Docker` · `pytest`<br/>
+  Bronze→Silver→Gold lakehouse with a Spark SQL warehouse, dual gradient-boosted models (churn + lifetime value), a versioned model registry, drift monitoring, and a containerised scoring service under CI.
+
+- [**🎬 Media recommendation engine**](https://github.com/Lifewitdata/media-recommendation-engine) — `scikit-learn` · `NMF` · `TF-IDF` · `hybrid ranking`<br/>
+  175,540 events across 5,000 users and 1,500 titles — collaborative filtering, matrix factorization and a cold-start-aware hybrid ranker, evaluated on Precision@10, Recall@10, AUC and lift rather than accuracy alone.
 
 > 📚 **140+ public repositories** — <a href="https://github.com/Lifewitdata?tab=repositories">browse them all →</a>
 
 ---
 
+## 🛠️ Toolkit
+
+Everything below is traceable to a repo on this account or to the work I did at Weblays — it is the list I have shipped with, not the list I would like to have.
+
 <div align="center">
 
-### 📫 Let's Connect
+**Languages & analysis**
+<img src="https://skillicons.dev/icons?i=python,r,sklearn&perline=6" alt="Python, R, scikit-learn"/>
 
-<a href="https://www.linkedin.com/in/isfaque-ansari-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2B0F18" alt="LinkedIn"/></a>
-<a href="mailto:isfaq.ans@gmail.com"><img src="https://img.shields.io/badge/Email-isfaq.ans%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2B0F18" alt="Email"/></a>
-<a href="https://medium.com/@isfaque45"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=2B0F18" alt="Medium"/></a>
-<a href="https://github.com/Lifewitdata/DataDrivenInsights"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=2B0F18" alt="Portfolio"/></a>
+**Databases & pipelines**
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=6" alt="PostgreSQL, MySQL, SQLite"/>
 
-<br/>
+**Serving & tooling**
+<img src="https://skillicons.dev/icons?i=docker,fastapi,git,bash&perline=6" alt="Docker, FastAPI, Git, Bash"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=100:c1666b,70:8e2a3c,35:5c1a2b,0:12060b&height=140&section=footer&text=Thanks%20for%20stopping%20by&fontSize=26&fontColor=fff5f6&fontAlignY=72&animation=fadeIn" alt="burgundy waving footer"/>
+</div>
+
+- **SQL** — CTEs, window functions, segmentation. BigQuery, PostgreSQL, MySQL, SQLite.
+- **Python** — pandas, NumPy, SciPy, scikit-learn, Polars.
+- **Experimentation** — A/B design, power & MDE, SRM checks, z-tests, chi-square, Mann-Whitney U, ANOVA, guardrails.
+- **Causal inference** — Staggered difference-in-differences, synthetic control, uplift and segment lift.
+- **Machine learning** — Recommenders (CF, NMF, TF-IDF, hybrid, cold-start), logistic regression, random forest, KMeans, gradient boosting, leakage-safe features, Precision@k / Recall@k / AUC.
+- **Analytics engineering** — dbt, DuckDB, PySpark medallion modelling, schema tests, reproducible pipelines.
+- **BI & delivery** — Tableau, Streamlit, Plotly, FastAPI services, Docker, Excel.
+- **LLM tooling** — Hugging Face transformers, LangChain, FAISS — used where retrieval genuinely helps.
+
+---
+
+## 🔥 Contribution heatmap
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lifewitdata/Lifewitdata/output/github-snake-burgundy-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lifewitdata/Lifewitdata/output/github-snake-burgundy.svg"/>
+    <img alt="GitHub contribution heatmap, burgundy palette, with an animated snake tracing the last year" src="https://raw.githubusercontent.com/Lifewitdata/Lifewitdata/output/github-snake-burgundy.svg" width="100%"/>
+  </picture>
+  <br/><sub>Genuine data · one cell = one day of public contributions over the last year · rebuilt from the live contribution graph every 12 hours by <a href="https://github.com/Lifewitdata/Lifewitdata/actions/workflows/snake.yml">this workflow</a></sub>
+</div>
+
+---
+
+## 📊 GitHub statistics
+
+<div align="center">
+
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=Lifewitdata&show_icons=true&hide=prs,issues,contribs&disable_animations=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&border_color=451126&hide_border=false&border_radius=14&rank_icon=github" alt="GitHub stats card: total stars earned and commits in the last year"/>
+<img width="495" src="https://streak-stats.demolab.com/?user=Lifewitdata&background=10070C&stroke=451126&ring=C77B9B&fire=E5B5C7&currStreakNum=F8F0F3&sideNums=E5B5C7&currStreakLabel=F8F0F3&sideLabels=F8F0F3&dates=C77B9B&border_color=451126&hide_border=false&border_radius=14" alt="Commit streak card: total contributions, current streak and longest streak"/>
+
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lifewitdata&layout=compact&langs_count=8&size_weight=0.6&count_weight=0.4&disable_animations=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&border_color=451126&hide_border=false&border_radius=14" alt="Most used languages across public repositories"/>
+
+</div>
+
+<sub>Counts come from the GitHub API via [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) — nothing here is hand-tuned. PR / issue / contribution counters are hidden because they are genuinely zero, not because they are unflattering.</sub>
+
+---
+
+<div align="center">
+
+### 📫 Find me
+
+<a href="https://www.linkedin.com/in/isfaque-ansari-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=190B12" alt="LinkedIn"/></a>
+<a href="https://github.com/Lifewitdata/DataDrivenInsights"><img src="https://img.shields.io/badge/Data%20Driven%20Insights%20portfolio-000000?style=flat-square&logo=github&logoColor=white&labelColor=190B12" alt="Portfolio"/></a>
+<a href="https://medium.com/@isfaque45"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&labelColor=190B12" alt="Medium"/></a>
+<a href="mailto:isfaq.ans@gmail.com"><img src="https://img.shields.io/badge/isfaq.ans%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=190B12" alt="Email"/></a>
+
+<br/><br/>
+
+  <img src="assets/footer.svg" width="900" alt="Thanks for reading — Isfaque Ansari"/>
 
 </div>

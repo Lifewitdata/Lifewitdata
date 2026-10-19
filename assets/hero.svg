@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-labelledby="ih-title ih-desc" preserveAspectRatio="xMidYMid meet">
+  <title id="ih-title">Isfaque Ansari — Data Analyst, Data Scientist, Analytics Engineer</title>
+  <desc id="ih-desc">Burgundy editorial banner. The trend line, grid and orbital rings are decorative geometry, not measured data.</desc>
+
+  <defs>
+    <linearGradient id="ih-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10070C"/>
+      <stop offset="0.45" stop-color="#190B12"/>
+      <stop offset="1" stop-color="#451126"/>
+    </linearGradient>
+
+    <linearGradient id="ih-sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#701A3D" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#C77B9B" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="ih-rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C77B9B" stop-opacity="0"/>
+      <stop offset="0.42" stop-color="#E5B5C7"/>
+      <stop offset="0.72" stop-color="#C77B9B"/>
+      <stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="ih-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#701A3D"/>
+      <stop offset="0.55" stop-color="#C77B9B"/>
+      <stop offset="1" stop-color="#E5B5C7"/>
+    </linearGradient>
+
+    <linearGradient id="ih-area" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C77B9B" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="ih-grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" fill="none" stroke="#C77B9B" stroke-width="0.5" stroke-opacity="0.13"/>
+    </pattern>
+
+    <radialGradient id="ih-grid-fade" cx="0.5" cy="0.45" r="0.75">
+      <stop offset="0" stop-color="#F8F0F3" stop-opacity="0.5"/>
+      <stop offset="0.65" stop-color="#F8F0F3" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#F8F0F3" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="ih-grid-mask">
+      <rect width="900" height="300" fill="url(#ih-grid-fade)"/>
+    </mask>
+
+    <filter id="ih-glow" x="-10%" y="-600%" width="120%" height="1300%">
+      <feGaussianBlur stdDeviation="1.6" result="ih-b"/>
+      <feMerge>
+        <feMergeNode in="ih-b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="ih-soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+
+    <!-- Styling lives on the elements as presentation attributes; this block is
+         motion only, so removing it leaves the finished banner intact. -->
+    <style><![CDATA[
+      .ih-draw { animation: ih-stroke 2.4s cubic-bezier(.36,.06,.24,.97) 0.25s both; }
+      .ih-fill { animation: ih-fade 1.6s ease-out 1.5s both; }
+      .ih-node { animation: ih-fade 1.1s ease-out 1.9s both; }
+      .ih-underline {
+        transform-box: fill-box;
+        transform-origin: left center;
+        animation: ih-reveal 1.5s cubic-bezier(.2,.8,.2,1) 0.1s both;
+      }
+
+      .ih-scan      { animation: ih-scan 11s linear 3s infinite; }
+      .ih-orbit     { transform-box: view-box; transform-origin: 762px 96px; animation: ih-spin 38s linear infinite; }
+      .ih-orbit-r   { transform-box: view-box; transform-origin: 762px 96px; animation: ih-spin-rev 56s linear infinite; }
+      .ih-drift     { animation: ih-drift 14s ease-in-out infinite alternate; }
+      .ih-breathe   { animation: ih-breathe 9s ease-in-out infinite alternate; }
+      .ih-pulse     { transform-box: fill-box; transform-origin: center; animation: ih-pulse 4.5s ease-in-out 3s infinite; }
+
+      @keyframes ih-stroke {
+        from { stroke-dasharray: 1180; stroke-dashoffset: 1180; }
+        to   { stroke-dasharray: 1180; stroke-dashoffset: 0; }
+      }
+      @keyframes ih-fade   { from { opacity: 0; } to { opacity: 1; } }
+      @keyframes ih-reveal { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+      @keyframes ih-scan   { from { transform: translateX(-320px); opacity: 0; } 8%,92% { opacity: 1; } to { transform: translateX(940px); opacity: 0; } }
+      @keyframes ih-spin     { to { transform: rotate(360deg); } }
+      @keyframes ih-spin-rev { to { transform: rotate(-360deg); } }
+      @keyframes ih-drift    { from { transform: translate(0, 0); } to { transform: translate(24px, -12px); } }
+      @keyframes ih-breathe  { from { opacity: 0.38; } to { opacity: 0.7; } }
+      @keyframes ih-pulse    { 0%,100% { opacity: 1; } 50% { opacity: 0.45; } }
+
+      @media (prefers-reduced-motion: reduce) {
+        .ih-draw, .ih-fill, .ih-node, .ih-underline,
+        .ih-scan, .ih-orbit, .ih-orbit-r, .ih-drift, .ih-breathe, .ih-pulse { animation: none; }
+        .ih-breathe { opacity: 0.5; }
+        .ih-scan { opacity: 0; }
+      }
+    ]]></style>
+  </defs>
+
+  <rect width="900" height="300" rx="18" fill="url(#ih-bg)"/>
+
+  <g mask="url(#ih-grid-mask)">
+    <rect class="ih-drift" x="-40" y="-40" width="980" height="380" fill="url(#ih-grid)"/>
+  </g>
+
+  <g class="ih-breathe" filter="url(#ih-soft)" opacity="0.55">
+    <ellipse cx="150" cy="300" rx="230" ry="120" fill="#701A3D" opacity="0.55"/>
+    <ellipse cx="820" cy="10" rx="200" ry="120" fill="#451126" opacity="0.75"/>
+  </g>
+
+  <g class="ih-orbit-r" opacity="0.5">
+    <circle cx="762" cy="96" r="86" fill="none" stroke="#701A3D" stroke-width="1" stroke-dasharray="2 9"/>
+  </g>
+  <g class="ih-orbit" opacity="0.75">
+    <circle cx="762" cy="96" r="58" fill="none" stroke="#C77B9B" stroke-width="0.9" stroke-dasharray="34 210" stroke-linecap="round"/>
+    <circle cx="762" cy="38" r="3.2" fill="#E5B5C7"/>
+  </g>
+  <circle class="ih-pulse" cx="762" cy="96" r="2" fill="#C77B9B" opacity="0.9"/>
+
+  <text class="ih-meta" x="56" y="62" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10.5" letter-spacing="2.6" fill="#C77B9B" fill-opacity="0.85">GITHUB / LIFEWITDATA</text>
+  <text x="54" y="126" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="5" fill="#F8F0F3">ISFAQUE ANSARI</text>
+
+  <g class="ih-underline">
+    <rect x="56" y="143" width="392" height="2" rx="1" fill="url(#ih-rule)" filter="url(#ih-glow)"/>
+  </g>
+
+  <text x="56" y="176" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" letter-spacing="3.4" fill="#E5B5C7">DATA ANALYST · DATA SCIENTIST · ANALYTICS ENGINEER</text>
+
+  <g>
+    <path class="ih-fill" d="M56 268 L132 250 L208 258 L284 232 L360 240 L436 214 L512 224 L588 196 L664 204 L740 178 L816 186 L844 176 L844 268 Z" fill="url(#ih-area)"/>
+    <path class="ih-draw" d="M56 268 L132 250 L208 258 L284 232 L360 240 L436 214 L512 224 L588 196 L664 204 L740 178 L816 186 L844 176" fill="none" stroke="url(#ih-line)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle class="ih-node" cx="284" cy="232" r="3" fill="#C77B9B"/>
+    <circle class="ih-node" cx="512" cy="224" r="3" fill="#C77B9B"/>
+    <circle class="ih-node" cx="844" cy="176" r="4" fill="#E5B5C7"/>
+  </g>
+
+  <g opacity="0.55">
+    <line x1="56" y1="276" x2="844" y2="276" stroke="#701A3D" stroke-width="1"/>
+    <text x="56" y="290" font-family="Segoe UI, Arial, sans-serif" font-size="9" letter-spacing="1.6" fill="#C77B9B" fill-opacity="0.6">EDA</text>
+    <text x="272" y="290" font-family="Segoe UI, Arial, sans-serif" font-size="9" letter-spacing="1.6" fill="#C77B9B" fill-opacity="0.6">MODELLING</text>
+    <text x="512" y="290" font-family="Segoe UI, Arial, sans-serif" font-size="9" letter-spacing="1.6" fill="#C77B9B" fill-opacity="0.6">EXPERIMENTS</text>
+    <text x="748" y="290" font-family="Segoe UI, Arial, sans-serif" font-size="9" letter-spacing="1.6" fill="#C77B9B" fill-opacity="0.6">DECISIONS</text>
+  </g>
+
+  <g opacity="0.5">
+    <rect class="ih-scan" x="0" y="0" width="260" height="300" fill="url(#ih-sheen)"/>
+  </g>
+
+  <rect x="0.5" y="0.5" width="899" height="299" rx="18" fill="none" stroke="#701A3D" stroke-opacity="0.55"/>
+</svg>
