@@ -6,6 +6,16 @@
 
 ---
 
+## Featured project — E-commerce Sales Analysis
+
+**[Explore the repository](https://github.com/Lifewitdata/ecommerce-sales-analysis)** · **[Live Tableau dashboard](https://public.tableau.com/app/profile/isfaque.ansari5273/viz/Ecommerce_Sales_Executive_Overview/E-commerceSales-ExecutiveOverview)** · **[Excel workbook](https://github.com/Lifewitdata/ecommerce-sales-analysis/blob/main/excel/Ecommerce_Sales_Excel_Report.xlsx)**
+
+Python + MySQL analysis of **2,000 synthetic retail orders** across **573 customers**, delivered as a Tableau Public executive dashboard and an eight-sheet Excel report. **Sales Rs 3,59,28,969 · Profit Rs 51,82,912 · Margin 14.43%.**
+
+Electronics brings 71.74% of revenue at an 8.93% margin; discounts above 20% lose Rs 2.49 lakh. Includes the packaged Tableau workbook and **127 SQL checks** that reconcile MySQL queries with pandas.
+
+---
+
 ## 👋 Hello
 
 I'm **Isfaque Ansari** — a data analyst and scientist working the full path from raw event tables to a decision someone can defend. Two years of that inside a live product at Weblays Technologies, and now a portfolio where I pick the hard methods on purpose: staggered difference-in-differences, position-bias-corrected ranking, uplift on a real randomized campaign.
